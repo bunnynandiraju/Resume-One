@@ -1,0 +1,34 @@
+hr {
+    background-color: white;
+    border-style: none;
+    height: 10px;
+    width: 40%;
+    
+}
+
+body {
+    background-color: #AAE3E2;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+th {
+    font-size: 18px;
+    text-align: center;
+    
+}
+
+h2{
+    padding-left:85px;
+}
+
+td{
+    padding-left:12px; 
+}
+
+.bun{
+    padding-left: 14px;
+}
